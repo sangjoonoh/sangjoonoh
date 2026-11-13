@@ -29,32 +29,32 @@
 | Project | Period | Role |
 |:---|:---:|:---|
 | **Korean BFT Communication Satellite Large Antenna Technology**<br><sub>한국형 BFT 통신위성 대형 안테나 기술 · DAPA</sub> | 2024.09 –<br>2026.08 | • Deployable boom design & analysis<br>• Deployment drive & latching mechanism development / testing<br>• Pointing mechanism design & analysis |
-| **Large Wing Skin for Future Aircraft based on Domestic Composites & RTM**<br><sub>국산 복합재 및 수지주입공정 기반 미래항공기 대형 주익 스킨 개발</sub> | 2024.09 –<br>2025.12 | • RTM process thermal analysis |
-| **0.6 m K-Band CFRS Reflector Antenna Forming Process Development**<br><sub>0.6m K-Band CFRS 반사판 안테나 성형 공정 개발</sub> | – | • Forming mold design<br>• Autoclave process development<br>• Surface measurement |
 
 ## 📄 Publications
 
 #### Journal Articles
-| Year | Journal | Index | Authorship |
-|:---:|:---|:---:|:---:|
-| 2026 | Journal of Electromagnetic Engineering and Science (JEES) | SCIE | Co-author (3/9) |
-| 2026 | Journal of Aerospace System Engineering (JASE), Vol.20 No.5 | KCI | 1st author (1/6) |
+1. **[SCIE]** Design and Experimental Validation of a 0.6m Diameter K-Band CFRS Reflector Antenna for Cube Satellite Applications
+   <br><sub>*Journal of Electromagnetic Engineering and Science (JEES)*, 2026 · Co-author (3/9)</sub>
+2. **[KCI]** 대형 메쉬 반사판 안테나를 위한 확장형 트러스 붐 구조의 동적 특성 분석
+   <br><sub>*Journal of Aerospace System Engineering (JASE)*, Vol.20 No.5, pp.29–37, 2026.06 · 1st author (1/6)</sub>
 
-#### Conference Presentations
-| Date | Conference | Scope | Authorship |
-|:---:|:---|:---:|:---:|
-| 2026.05 | Society for Aerospace System Engineering (SASE) Spring Conference | Domestic | 1st author |
-| 2026.04 | Korean Society for Aeronautical & Space Sciences (KSAS) Spring Conference | Domestic | 1st author |
-| 2025.10 | Asia-Pacific International Symposium on Aerospace Technology (APISAT) | International | 1st author |
-| 2025.09 | SASE Fall Conference | Domestic | 1st author |
-| 2025.05 | SASE Spring Conference | Domestic | 1st author |
-| 2025.04 | KSAS Spring Conference | Domestic | 1st author |
+#### Conference Presentations <sub>(all 1st author)</sub>
+| Date | Title | Conference |
+|:---:|:---|:---|
+| 2026.05 | 사루스 링크가 적용된 전개형 붐의 구조 설계 및 동적 특성 분석 | SASE Spring Conference |
+| 2026.04 | 모듈형 전개형 트러스 붐의 동적 해석 모델과 실험적 검증 | KSAS Spring Conference |
+| 2025.10 | Structural Dynamic Characteristics and Design of the Extendable Truss Boom for Large Reflector Antenna | APISAT 2025 (International) |
+| 2025.09 | 확장형 트러스 붐의 개발 연구 | SASE Fall Conference |
+| 2025.05 | 확장용 트러스 붐의 구조 설계 및 전개 특성 분석 | SASE Spring Conference |
+| 2025.04 | 확장용 트러스 붐의 구조 설계 및 전개 특성 분석 | KSAS Spring Conference |
 
-#### Patents
-| Filed | Type | Applicant | Inventor |
+<sub>SASE: Society for Aerospace System Engineering · KSAS: Korean Society for Aeronautical & Space Sciences</sub>
+
+#### Patents <sub>(Korean patent applications)</sub>
+| Filed | Title | Applicant | Inventor |
 |:---:|:---|:---|:---:|
-| 2026.03 | Korean patent application | Korea Aerospace University | 2nd |
-| 2025.12 | Korean patent application | Republic of Korea (DAPA) | 2nd |
+| 2026.03 | 사루스 링크 및 탄성 토크 제공 유닛을 이용한 단일 자유도 전개형 구조체 | Korea Aerospace University | 2nd |
+| 2025.12 | 전개형 트러스 붐 및 그를 구비한 전개형 구조물 | Republic of Korea (DAPA) | 2nd |
 
 ## 🏆 Awards
 
@@ -72,7 +72,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:ohsangjun123@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangjunoh123@gmail.com)
 
 ---
 
