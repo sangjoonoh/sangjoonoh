@@ -8,81 +8,50 @@
 
 ## 👨‍🚀 About Me
 
-- 🚗 **Researcher** @ Korea Automotive Technology Institute (KATECH) — since Nov 2026
-- 🎓 **M.S.** in Aerospace & Mechanical Engineering, Korea Aerospace University (Aug 2026)
-  - 🛰️ [KAUSS] Space Structures Laboratory (Advisor: Prof. Jinho Roh)
-- 🎓 **B.S.** in Mechanical Engineering, Korea Aerospace University (Feb 2024)
+> Aerospace structures engineer specializing in **deployable space structures** and **composite structures**.
 
-## 🔬 Research Interests
+## 💼 Experience
 
-> Design, dynamic analysis and experimental validation of **deployable composite truss booms** for large mesh reflector antennas on satellites.
+| Period | Organization | Position |
+|:---:|:---|:---|
+| 2026.11 – Present | Korea Automotive Technology Institute (KATECH) | Researcher |
+| 2026.09 – 2026.11 | Korea Aerospace University, BK21 Education & Research Group | Researcher |
+| 2024.09 – 2026.08 | Korea Aerospace University, Space Structures Lab (KAUSS) | Graduate Researcher |
 
-- 🦾 **Deployable Mechanisms** — Sarrus-link single-DOF synchronous deployment, tape-spring driven booms
-- 📐 **Structural Dynamics** — multibody dynamics, modal & stiffness analysis
-- 🧵 **Composite Structures** — CFRP / CFRS reflectors, autoclave forming
-- 📷 **Experimental Validation** — DIC (ARAMIS) measurement & model correlation
+## 🎓 Education
+
+- **M.S.** Aerospace & Mechanical Engineering, Korea Aerospace University (2026.08)
+- **B.S.** Mechanical Engineering, Korea Aerospace University (2024.02)
+
+## 🚀 Projects
+
+**Large Deployable Antenna for Korean BFT Communication Satellite** · 2024.09 – 2026.08
+<br>*DAPA consortium project, led by Korean Air*
+- Role: Deployable boom design & analysis · Deployment drive / latching mechanism development & testing · Pointing mechanism design & analysis
+
+**0.6 m K-Band CFRS Reflector Antenna for CubeSats** · *Joint research with LIG Nex1*
+- Role: Forming mold design · Autoclave process development · Surface measurement
+
+## 📄 Publications
+
+- **[KCI]** Dynamic Characteristics of an Extendable Truss Boom Structure for Large Mesh Reflector Antennas — *J. Aerospace System Engineering*, 2026 (1st author)
+- **[SCIE]** Design and Experimental Validation of a 0.6m Diameter K-Band CFRS Reflector Antenna for Cube Satellite Applications — *J. Electromagnetic Engineering and Science*, 2026 (co-author)
+- **Conferences:** 6 presentations, all first-authored (incl. APISAT 2025)
+- **Patents:** 2 applications on deployable truss boom structures
+
+## 🏆 Awards
+
+- Airbus 101 Competition — Honorable Mention (2023)
 
 ## 🛠️ Tech Stack
 
-#### CAD & Simulation
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Abaqus](https://img.shields.io/badge/Abaqus-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![RecurDyn](https://img.shields.io/badge/RecurDyn-1F6FB2?style=flat-square)
 ![Ansys Motion](https://img.shields.io/badge/Ansys_Motion-FFB71B?style=flat-square&logo=ansys&logoColor=black)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
-
-#### Programming & Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Minitab](https://img.shields.io/badge/Minitab-5C9E31?style=flat-square)
-
-#### Robotics & Tools
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 🚀 Projects
-
-### 🛰️ Large Deployable Antenna for Korean BFT Communication Satellite
-*Defense Acquisition Program Administration (DAPA) consortium project, led by Korean Air · Sep 2024 – Aug 2026*
-
-- Designed and analyzed **deployable composite truss booms** for a large mesh reflector antenna
-- Developed a **Sarrus-link single-DOF synchronous deployment mechanism** — ~30% lighter than the initial concept design (CAD mass comparison)
-- Multibody dynamics (RecurDyn, Ansys Motion), structural / modal / composite analysis (Abaqus, Tsai-Wu), thermal deformation analysis
-- Cross-checked analyses against equations of motion derived and solved in MATLAB
-- Built prototypes and ran deployment & dynamic tests — **DIC (ARAMIS) validation within 3% error**
-- 📌 Outcome: 2 patent applications · 1 journal paper · 6 conference presentations
-
-### 📡 0.6 m K-Band CFRS Reflector Antenna for CubeSats
-*Joint research with LIG Nex1*
-
-- Designed the segmented forming mold and drawings; derived autoclave curing conditions for a triaxial-woven CFRS reflector
-- Measured the reflector surface with an ARAMIS 3D optical scanner
-- 📌 Outcome: **37.4 dBi gain at 20 GHz** — published in JEES (SCIE)
-
-## 📄 Journals
-
-| Year | Title | Journal | Category | Role |
-|:---:|:---|:---:|:---:|:---:|
-| 2026 | Dynamic Characteristics of an Extendable Truss Boom Structure for Large Mesh Reflector Antennas | J. Aerospace System Engineering | KCI | 1st author |
-| 2026 | Design and Experimental Validation of a 0.6m Diameter K-Band CFRS Reflector Antenna for Cube Satellite Applications | J. Electromagnetic Engineering and Science | SCIE | Co-author |
-
-## 🎤 Conferences
-
-**International**
-- **APISAT 2025** — Structural Dynamic Characteristics and Design of the Extendable Truss Boom for Large Reflector Antenna
-
-**Domestic** (all first-authored)
-- KSAS Spring 2026 — Dynamic analysis model and experimental validation of a modular deployable truss boom
-- SASE Spring 2026 — Structural design and dynamic analysis of a deployable boom with Sarrus linkage
-- SASE Fall 2025 — Development of an extendable truss boom
-- SASE Spring 2025 / KSAS Spring 2025 — Structural design and deployment characteristics of an extendable truss boom
-
-## 🏆 Patents & Awards
-
-- 📜 2 patent applications on deployable truss boom structures (2025, 2026)
-- 🥉 Airbus 101 Competition — Honorable Mention, 4th of 70 teams (2023)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 ## 📫 Contact
 
