@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sangjoon+Oh+%F0%9F%9B%B0%EF%B8%8F;Aerospace+Structures+Engineer;Deployable+Space+Structures;Researcher+%40+KATECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sangjoon+Oh+%F0%9F%9B%B0%EF%B8%8F;Aerospace+%26+Automotive+Engineer;Structural+Analysis+%C2%B7+Multibody+Dynamics;Researcher+%40+KATECH" alt="Typing SVG" /></a>
 
 </div>
 
@@ -8,7 +8,8 @@
 
 ## 👨‍🚀 About Me
 
-> Aerospace structures engineer specializing in **deployable space structures** and **composite structures**.
+> Aerospace & automotive engineer focused on **structural analysis** and **multibody dynamics**,
+> applied from deployable space structures to automotive systems.
 
 ## 💼 Experience
 
@@ -25,11 +26,16 @@
 
 ## 🚀 Projects
 
-**Large Deployable Antenna for Korean BFT Communication Satellite** · 2024.09 – 2026.08
-<br>*DAPA consortium project, led by Korean Air*
+**Korean BFT Communication Satellite Large Antenna Technology** · DAPA · 2024.09 – 2026.08
+<br><sub>한국형 BFT 통신위성 대형 안테나 기술 (방위사업청)</sub>
 - Role: Deployable boom design & analysis · Deployment drive / latching mechanism development & testing · Pointing mechanism design & analysis
 
-**0.6 m K-Band CFRS Reflector Antenna for CubeSats** · *Joint research with LIG Nex1*
+**Large Wing Skin for Future Aircraft based on Domestic Composites & RTM Process** · 2024.09 – 2025.12
+<br><sub>국산 복합재 및 수지주입공정 기반 미래항공기 대형 주익 스킨 개발</sub>
+- Role: Thermal analysis of the RTM process
+
+**0.6 m K-Band CFRS Reflector Antenna Forming Process Development**
+<br><sub>0.6m K-Band CFRS 반사판 안테나 성형 공정 개발</sub>
 - Role: Forming mold design · Autoclave process development · Surface measurement
 
 ## 📄 Publications
