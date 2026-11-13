@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sangjun+Oh+%F0%9F%9B%B0%EF%B8%8F;Aerospace+Structures+Engineer;Deployable+Space+Structures;Researcher+%40+KATECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sangjoon+Oh+%F0%9F%9B%B0%EF%B8%8F;Aerospace+Structures+Engineer;Deployable+Space+Structures;Researcher+%40+KATECH" alt="Typing SVG" /></a>
 
 </div>
 
@@ -41,6 +41,25 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 🚀 Projects
+
+### 🛰️ Large Deployable Antenna for Korean BFT Communication Satellite
+*Defense Acquisition Program Administration (DAPA) consortium project, led by Korean Air · Sep 2024 – Aug 2026*
+
+- Designed and analyzed **deployable composite truss booms** for a large mesh reflector antenna
+- Developed a **Sarrus-link single-DOF synchronous deployment mechanism** — ~30% lighter than the initial concept design (CAD mass comparison)
+- Multibody dynamics (RecurDyn, Ansys Motion), structural / modal / composite analysis (Abaqus, Tsai-Wu), thermal deformation analysis
+- Cross-checked analyses against equations of motion derived and solved in MATLAB
+- Built prototypes and ran deployment & dynamic tests — **DIC (ARAMIS) validation within 3% error**
+- 📌 Outcome: 2 patent applications · 1 journal paper · 6 conference presentations
+
+### 📡 0.6 m K-Band CFRS Reflector Antenna for CubeSats
+*Joint research with LIG Nex1*
+
+- Designed the segmented forming mold and drawings; derived autoclave curing conditions for a triaxial-woven CFRS reflector
+- Measured the reflector surface with an ARAMIS 3D optical scanner
+- 📌 Outcome: **37.4 dBi gain at 20 GHz** — published in JEES (SCIE)
 
 ## 📄 Journals
 
