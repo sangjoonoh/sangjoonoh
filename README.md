@@ -73,6 +73,7 @@
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sangjunoh123@gmail.com)
+[![KATECH](https://img.shields.io/badge/KATECH-0A3D91?style=flat-square&logo=maildotru&logoColor=white)](mailto:ohsj@katech.re.kr)
 
 ---
 
