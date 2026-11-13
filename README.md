@@ -26,24 +26,35 @@
 
 ## 🚀 Projects
 
-**Korean BFT Communication Satellite Large Antenna Technology** · DAPA · 2024.09 – 2026.08
-<br><sub>한국형 BFT 통신위성 대형 안테나 기술 (방위사업청)</sub>
-- Role: Deployable boom design & analysis · Deployment drive / latching mechanism development & testing · Pointing mechanism design & analysis
-
-**Large Wing Skin for Future Aircraft based on Domestic Composites & RTM Process** · 2024.09 – 2025.12
-<br><sub>국산 복합재 및 수지주입공정 기반 미래항공기 대형 주익 스킨 개발</sub>
-- Role: Thermal analysis of the RTM process
-
-**0.6 m K-Band CFRS Reflector Antenna Forming Process Development**
-<br><sub>0.6m K-Band CFRS 반사판 안테나 성형 공정 개발</sub>
-- Role: Forming mold design · Autoclave process development · Surface measurement
+| Project | Period | Role |
+|:---|:---:|:---|
+| **Korean BFT Communication Satellite Large Antenna Technology**<br><sub>한국형 BFT 통신위성 대형 안테나 기술 · DAPA</sub> | 2024.09 –<br>2026.08 | • Deployable boom design & analysis<br>• Deployment drive & latching mechanism development / testing<br>• Pointing mechanism design & analysis |
+| **Large Wing Skin for Future Aircraft based on Domestic Composites & RTM**<br><sub>국산 복합재 및 수지주입공정 기반 미래항공기 대형 주익 스킨 개발</sub> | 2024.09 –<br>2025.12 | • RTM process thermal analysis |
+| **0.6 m K-Band CFRS Reflector Antenna Forming Process Development**<br><sub>0.6m K-Band CFRS 반사판 안테나 성형 공정 개발</sub> | – | • Forming mold design<br>• Autoclave process development<br>• Surface measurement |
 
 ## 📄 Publications
 
-- **[KCI]** Dynamic Characteristics of an Extendable Truss Boom Structure for Large Mesh Reflector Antennas — *J. Aerospace System Engineering*, 2026 (1st author)
-- **[SCIE]** Design and Experimental Validation of a 0.6m Diameter K-Band CFRS Reflector Antenna for Cube Satellite Applications — *J. Electromagnetic Engineering and Science*, 2026 (co-author)
-- **Conferences:** 6 presentations, all first-authored (incl. APISAT 2025)
-- **Patents:** 2 applications on deployable truss boom structures
+#### Journal Articles
+| Year | Journal | Index | Authorship |
+|:---:|:---|:---:|:---:|
+| 2026 | Journal of Electromagnetic Engineering and Science (JEES) | SCIE | Co-author (3/9) |
+| 2026 | Journal of Aerospace System Engineering (JASE), Vol.20 No.5 | KCI | 1st author (1/6) |
+
+#### Conference Presentations
+| Date | Conference | Scope | Authorship |
+|:---:|:---|:---:|:---:|
+| 2026.05 | Society for Aerospace System Engineering (SASE) Spring Conference | Domestic | 1st author |
+| 2026.04 | Korean Society for Aeronautical & Space Sciences (KSAS) Spring Conference | Domestic | 1st author |
+| 2025.10 | Asia-Pacific International Symposium on Aerospace Technology (APISAT) | International | 1st author |
+| 2025.09 | SASE Fall Conference | Domestic | 1st author |
+| 2025.05 | SASE Spring Conference | Domestic | 1st author |
+| 2025.04 | KSAS Spring Conference | Domestic | 1st author |
+
+#### Patents
+| Filed | Type | Applicant | Inventor |
+|:---:|:---|:---|:---:|
+| 2026.03 | Korean patent application | Korea Aerospace University | 2nd |
+| 2025.12 | Korean patent application | Republic of Korea (DAPA) | 2nd |
 
 ## 🏆 Awards
 
