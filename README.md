@@ -16,8 +16,7 @@
 | Period | Organization | Position |
 |:---:|:---|:---|
 | 2026.11 – Present | Korea Automotive Technology Institute (KATECH) | Researcher |
-| 2026.09 – 2026.11 | Korea Aerospace University, BK21 Education & Research Group | Researcher |
-| 2024.09 – 2026.08 | Korea Aerospace University, Space Structures Lab (KAUSS) | Graduate Researcher |
+| 2026.09 – 2026.11 | Korea Aerospace University, BK21 Very Low Earth Orbit (VLEO) Space Service Research Group | Researcher |
 
 ## 🎓 Education
 
